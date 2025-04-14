@@ -1,16 +1,21 @@
-## Hi there 👋
+<a href="https://youtube.com/ImonHosen/?sub_confirmation=1" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/201150564?v=4" width="190" height="190">
+</a>
 
-<!--
-**nazmulislamrajue/nazmulislamrajue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+I'm a Full-Stack Developer in progress, currently learning PHP Laravel & Vue.js to build powerful, dynamic web applications.
 
-Here are some ideas to get you started:
+💡 While I'm diving deep into full-stack development, I also have extensive experience in frontend website customization, graphic design, video editing, and WordPress development. My creative background helps me craft visually stunning and highly functional web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning: Vue.js, RESTful APIs, and modern web development best practices. I already have experience in Laravel.
+
+🚀 Excited to sharpen my skills, contribute to projects, and collaborate with like-minded developers!
+
+</p>
+
+<small>❯❯ You can follow him on: ↓</strong>
+
+ 📫 Let's connect: nazmulislamrajue@gmail.com
+
+
+
